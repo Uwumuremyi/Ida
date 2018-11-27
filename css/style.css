@@ -1,0 +1,38 @@
+body {
+  background-color: #faf9f9;
+  text-align: center;
+}
+
+.box {
+  margin-top: 20px;
+  width: 800px;
+  height: 100px;
+  background-color: #260c1a;
+  font-size: 18px;
+  color: red;
+  font-family: 'Patrick Hand', cursive;
+}
+.main{
+  margin-top: 150px;
+}
+.question{
+  color: #dc3545;
+  font-size: 30px;
+  font-family: 'Cormorant Upright', serif;
+}
+.buttons{
+  margin-top: 50px;
+}
+.button1{
+  color: #dc3545;
+  font-size: 24px;
+}
+.button2{
+  color: #dc3545;
+  font-size: 24px;
+  margin-left: 450px;
+}
+.title{
+  width: 800px;
+  margin-left: 250px;
+}
